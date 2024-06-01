@@ -1,6 +1,10 @@
 # AI-for-Health
 Softwarepraktikum (AI for Health), FU Berlin
 
+Group: Luciana, Seohee, Irma
+
+Institution: Berlin Institute of Health (BIH) from the Charité 
+
 Project: 
 
 Detecting Active Tuberculosis Bacilli on TB Smears: A Nightingale Open Science Dataset
